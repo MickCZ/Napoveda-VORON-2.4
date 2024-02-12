@@ -1,4 +1,6 @@
-# Napoveda-VORON-2.4
-Vzhledem k bordelu v ruznych navodech co koluji po internetu jsem chtel vytvorit nejaky jednoduchy srozumitelny navod pro "LAMY" jako jsem ja. :-)
+# Nápověda k VORON 2.4 a ostatním
+Vzhledem k nesrozumitelnému chaosu v různých návodech co kolují po internetu bych chtěl vytvořit nějaký jednoduchý a hlavně srozumitelný návod pro "LAMY" jako jsem já. :-)
 
-Snad se bude nekomu hodit.
+Postupně bych to chtěl obohatit a rozšířit i o tipy, rady z vlastních zkušeností, kde co koupit apod.
+
+Snad někomu také pomůže.
