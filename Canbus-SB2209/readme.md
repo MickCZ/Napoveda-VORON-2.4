@@ -9,7 +9,6 @@ Overime desku ze je v rezimu DFU nasledujicim prikazem:
 lsusb
 ```
 Obdrzime obdobny vypis:
-Očekávaný výstup:
 ```
 Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
 Bus 001 Device 006: ID 0483:df11 STMicroelectronics STM Device in DFU Mode #### SB CAN TH ####
