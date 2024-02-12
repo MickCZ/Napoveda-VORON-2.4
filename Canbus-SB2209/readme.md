@@ -17,3 +17,8 @@ Bus 001 Device 002: ID 2109:3431 VIA Labs, Inc. Hub
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
 Zajima nas pouze polozka u ktere je uvedeno ze konkretni deska je v DFU mode, pokud na vypisu nevidime desku v DFU modu opakujeme krok 4 a prikaz pro novy vypis.
+
+
+
+![canboot](images/SB2209_klipper.png)
+
